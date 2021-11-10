@@ -5,6 +5,9 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 ## 3º Bimestre
 
-* [LAB18](): Wikis
+* [LAB18](): Documentando projetos com wikis
 
-* [LAB19](): Diagramas de Classes
+* [LAB19]() e [LAB20](): Diagrama de Classes
+
+* [LAB21]() e [LAB22](): Diagrama de Sequência
+
