@@ -9,5 +9,5 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB19]() e [LAB20](): Diagrama de Classes
 
-* [LAB21]() e [LAB22](): Diagrama de Sequência
+* [LAB21](labs/lab-diagrama-sequencia-parte-1.md) e [LAB22](labs/lab-diagrama-sequencia-parte-2.md): Diagramas de Interação e Diagramas de Sequência
 
