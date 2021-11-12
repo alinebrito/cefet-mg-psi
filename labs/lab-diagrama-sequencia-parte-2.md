@@ -1,6 +1,6 @@
 # LAB21: Wikis & Diagrama de Sequência
 
-Conforme aprendemos na aula, podemos hospedar a documentação de um projeto em [wikis](https://docs.github.com/pt/communities/documenting-your-project-with-wikis/about-wikis).
+Conforme aprendemos nas últimas aulas, podemos hospedar a documentação de um projeto em [wikis](https://docs.github.com/pt/communities/documenting-your-project-with-wikis/about-wikis).
 
 Nesta aula, vamos adicionar o diagrama de sequência no wiki do Projeto Integrado (PI).
 

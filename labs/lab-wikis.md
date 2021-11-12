@@ -1,6 +1,6 @@
 # LAB21: Documentando projetos com wikis
 
-Podemos hospedar a documentação de um projeto em [wikis](https://docs.github.com/pt/communities/documenting-your-project-with-wikis/about-wikis). Dessa forma, outras pessoas podem consultar a documentação para entender o sistema ou contribuir com o projeto.
+A documentação de um projeto pode ser hospedada em [wikis](https://docs.github.com/pt/communities/documenting-your-project-with-wikis/about-wikis). Dessa forma, outras pessoas podem consultar a documentação para entender o sistema ou contribuir com o projeto.
 
 Neste laboratório prático, vamos criar um wiki para o Projeto Integrado (PI).
 
