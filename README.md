@@ -4,7 +4,7 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 ## 1º Bimestre
 
-* [LAB](labs/lab-wikis.md): Issues & GitHub
+* [LAB](labs/lab-issues.md): Issues & GitHub
 
 ## 3º Bimestre
 

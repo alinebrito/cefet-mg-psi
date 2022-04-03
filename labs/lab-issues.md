@@ -2,7 +2,10 @@
 
 Nós vamos utilizar a plataforma GitHub no decorrer da disciplina. Dentre os recursos importantes, existem as [issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues). Podemos criar issues em um projeto no GitHub, por exemplo, para discutir ideias, gerenciar tarefas, e reportar defeitos.
 
-Neste laboratório prático vamos começar a usar o sistema de issues no GitHub.
+Para [criar uma issue](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue), devemos acessar o menu `Issues`, pressionar o botão `New issue`, e preencher as informações conforme a necessidade. 
+
+Neste laboratório prático vamos começar a usar o sistema de issues no GitHub. Existe uma issue que foi criada para este propósito.
+
 
 __Tarefa 1)__ Criar um perfil no [GitHub](https://github.com/).
 
