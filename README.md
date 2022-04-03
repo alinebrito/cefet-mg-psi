@@ -2,6 +2,9 @@
 
 Repositório para atividades práticas da disciplina Projeto de Sistemas do curto Técnico em Informática do Cefet-MG.
 
+## 1º Bimestre
+
+* [LAB](labs/lab-wikis.md): Issues & GitHub
 
 ## 3º Bimestre
 
