@@ -8,6 +8,9 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-wikis.md): Organizações GitHub & Wikis
 
+* [LAB](labs/lab-requisitos.md): Requisitos Funcionais e Não-Funcionais
+
+
 
 
 
