@@ -113,7 +113,22 @@ Verifique se a sua página está igual ao template fornecido através da aba `Pr
 
 # Passo 5: Criando a página dos usuários e sistemas externos
 
-Repita os passos descritos anteriormente para criar a página referente à seção `Usuários e Sistemas Externos`. A nova página deve ser igual ao template disponível em [template-secao-usuarios-e-sistemas-externos](https://github.com/alinebrito/cefet-mg-psi/wiki/Usu%C3%A1rios-e-Sistemas-Externos).
+Repita os passos descritos anteriormente para criar a página referente à seção `Usuários e Sistemas Externos`. Em outras palavras, vamos criar uma página para descrever os atores do sistema. A nova página deve ser igual ao template disponível em [template-secao-usuarios-e-sistemas-externos](https://github.com/alinebrito/cefet-mg-psi/wiki/Usu%C3%A1rios-e-Sistemas-Externos).
+
+Atores são elementos externos que interagem com o sistema, ou seja, eles não fazem parte do mesmo. Atores podem ser pessoas, organizações, outros sistemas e equipamentos.
+
+Para identificar os atores, podemos fazer as seguintes perguntas:
+
+* Quais órgãos, empresas, ou pessoas utilizarão o sistema?
+* Quais sistemas se comunicarão com o sistema que está sendo construído?
+* Alguém deve ser notificado sobre algum evento do sistema?
+* Quem está interessado em determinado requisito funcional?
+
+Por exemplo, podemos ter os seguintes atores no [SIGAA](https://sig.cefetmg.br/sigaa):
+
+> Aluno: Indivíduo matriculado na instituição, que tem interesse em se inscrever em disciplinas do curso.
+
+> Professor: Indivíduo que leciona disciplinas na instituição.
 
 
 # Passo 6: Criando a página para descrever os benefícios e limites do projeto
@@ -133,6 +148,6 @@ Por fim, neste último passo, o grupo deve se reunir para discutir e completar a
 
 # Passo 8: Entrega
 
-**Cada integrante** do grupo deve submeter um relatório via SIGAA (**1 página, formato PDF**) com o nome completo, matrícula, nome do projeto, e link para a página wiki. 
+O laboratório prático deve ser realizado pelo grupo do PI. Entretando, **cada integrante** do grupo deve submeter um relatório via SIGAA (**1 página, formato PDF**) com o nome completo, matrícula, nome do projeto, e link para a página wiki. 
 
 Além disso, o relatório deve incluir uma breve descrição sobre como você participou deste laboratório prático, isto é, quais foram as suas principais contribuições.
