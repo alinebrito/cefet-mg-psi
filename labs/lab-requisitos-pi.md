@@ -131,3 +131,8 @@ Por fim, neste último passo, o grupo deve se reunir para discutir e completar a
 
 **Observações e sugestões:**  A seção referente às interfaces será completada na próxima aula. Portanto, o link  permanece em vermelho na página principal. Concentre-se nas principais funcionalidades do projeto. Além disso, considere o escopo da solução proposta, visto que, o mesmo deverá ser implementado até o **final do terceiro bimestre**.
 
+# Passo 8: Entrega
+
+**Cada integrante** do grupo deve submeter um relatório via SIGAA (**1 página, formato PDF**) com o nome completo, matrícula, nome do projeto, e link para a página wiki. 
+
+Além disso, o relatório deve incluir uma breve descrição sobre como você participou deste laboratório prático, isto é, quais foram as suas principais contribuições.
