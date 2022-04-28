@@ -12,6 +12,8 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-requisitos-pi.md): Requisitos de Software (Grupo PI)
 
+* [LAB](labs/lab-requisitos-interface-pi.md): Requisitos de Interface (Grupo PI)
+
 
 
 
