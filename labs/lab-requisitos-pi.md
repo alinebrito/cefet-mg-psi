@@ -148,6 +148,6 @@ Por fim, neste último passo, o grupo deve se reunir para discutir e completar a
 
 # Passo 8: Entrega
 
-O laboratório prático deve ser realizado pelo grupo do PI. Entretando, **cada integrante** do grupo deve submeter um relatório via SIGAA (**1 página, formato PDF**) com o nome completo, matrícula, nome do projeto, e link para a página wiki. 
+O laboratório prático deve ser realizado pelo grupo do PI. Entretanto, **cada integrante** do grupo deve submeter um relatório via SIGAA (**1 página, formato PDF**) com o nome completo, matrícula, nome do projeto, e link para a página wiki. 
 
 Além disso, o relatório deve incluir uma breve descrição sobre como você participou deste laboratório prático, isto é, quais foram as suas principais contribuições.
