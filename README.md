@@ -14,6 +14,8 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-requisitos-interface-pi.md): Requisitos de Interface (Grupo PI)
 
+* [LAB](labs/lab-requisitos-prototipos-interface-pi.md): Requisitos de Interface & Protótipos (Grupo PI)
+
 
 
 
