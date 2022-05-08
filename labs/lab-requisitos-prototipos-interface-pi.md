@@ -36,13 +36,13 @@ Além disso, o relatório deve incluir uma breve descrição sobre como você pa
 Após efetuar o login, basta adicionar um novo arquivo através do botão `New design file`. Em seguida, adicione um frame através da barra de ferramentas, conforme mostrado na figura a seguir.
 
 
-><img src="imagens/requisitos_interface_figma_8.png"  width="200"/>
+><img src="imagens/requisitos_interface_figma_8.png"  width="300"/>
 </br>
 
 
 Após pressioná-lo, um menu é exibido no lado direito, onde podemos definir a dimensão do frame. Por exemplo, se o seu projeto refere-se a um aplicativo mobile, você pode selecionar a opção "Android Large", conforme exemplo abaixo.
 
-><img src="imagens/requisitos_interface_figma_6.png"  width="100"/>
+><img src="imagens/requisitos_interface_figma_6.png"  width="250"/>
 </br>
 
 Após selecionar a dimensão, o frame é exibido no menu esquerdo conforme imagem a seguir. Você pode renomeá-lo pressionando com o botão direito do mouse e selecionando a opção “Rename”.
@@ -54,7 +54,7 @@ Após selecionar a dimensão, o frame é exibido no menu esquerdo conforme image
 
 * **Camadas**: Para desenhar elementos básicos, como por exemplo, círculos e retângulos, podemos utilizar a barra de ferramentas.  Basta selecionar a opção desejada e em seguida desenhá-la na área do frame, conforme mostra nas figuras a seguir. Assim como os frames, podemos ajustar as configurações das camadas através do menu lateral direito.
 
-><img src="imagens/requisitos_interface_figma_4.png"  width="200"/>
+><img src="imagens/requisitos_interface_figma_4.png"  width="300"/>
 </br>
 
 ><img src="imagens/requisitos_interface_figma_2.png"  width="600"/>
@@ -63,9 +63,12 @@ Após selecionar a dimensão, o frame é exibido no menu esquerdo conforme image
 * **Grupos de camadas:**  Podemos também criar grupos de camadas. Grupos permitem manipular os objetos em conjuntos, como por exemplo, movê-los facilmente, sem a necessidade de selecionar cada elemento. Para agrupar as camadas, basta selecioná-las e utilizar o comando `ctrl + G`. Os grupos criados são exibidos no menu lateral direito, conforme mostrado na imagem abaixo. Grupos são parecidos  com frames quando observamos no menu. Porém, grupos referem-se a um conjunto de camadas. Logo, não podemos adicionar propriedades. Eles são utilizados para organizar as camadas ou para ajustar as propriedades de todas as camadas relacionadas. Frames possuem dimensões e propriedades.
 
 * **Componentes e bibliotecas:** A plataforma Figma também oferece componentes e bibliotecas que podem ser reutilizados. Componentes incluem elementos básicos, como ícones, botões, e menus. Já as bibliotecas incluem coleções de componentes e estilos. Nós podemos usar bibliotecas para criar, compartilhar, ou utilizar componentes entre os arquivos no Figma. Você pode consultar a [comunidade Figma](https://www.figma.com/community) para realizar os arquivos compartilhados pelos usuários. Por exemplo, podemos utilizar [Mobile Wireframe UI Kit](https://www.figma.com/community/file/900479694578549256) em protótipos de sistemas mobile. Para reutilizá-lo, basta pressionar o botão "Duplicate". Em seguida, você deve mover o arquivo para o seu projeto através da opção "Move to Project", conforme mostrado nas figuras a seguir.
-Para as contas "Professional", você pode publicar o componente. Dessa forma, ele pode ser importado por todos os membros do time. Para as demais contas, você pode copiar os elementos desejados e em seguida colar no seu arquivo.A manutenção dos componentes é mais fácil, visto que, uma alteração no componente original implica na atualização das instâncias utilizadas no projeto.
+Para as contas "Professional", você pode publicar o componente. Dessa forma, ele pode ser importado por todos os membros do time. Para as demais contas, você pode copiar os elementos desejados e em seguida colar no seu arquivo. A manutenção dos componentes é mais fácil, visto que, uma alteração no componente original implica na atualização das instâncias utilizadas no projeto.
 
-* **Interação e Feedback**: A ferramenta Figma permite a contribuição e interação de outros membros do projeto. Podemos, por exemplo,  compartilhar o link do projeto com outros usuários que não fazem parte do time através do botão "Share". Existe uma opção para adicionar comentários na barra de ferramentas. Teste estas funcionalidades com os membros do seu grupo do PI. Por exemplo, vocês pode utilizá-las para avaliar as interfaces e para construir os protótipos em equipe.
+><img src="imagens/requisitos_interface_figma_9.png"  width="500"/>
+</br>
+
+* **Interação e Feedback**: A ferramenta Figma permite a contribuição e interação de outros membros do projeto. Podemos, por exemplo,  compartilhar o link do projeto com outros usuários que não fazem parte do time através do botão "Share". Existe uma opção para adicionar comentários na barra de ferramentas. Teste estas funcionalidades com os membros do seu grupo do PI. Por exemplo, você pode utilizá-las para avaliar as interfaces e para construir os protótipos em equipe.
 
 * **Outros recursos:** A ferramenta Figma oferece outros recursos úteis, como por exemplo, criação de protótipos navegáveis e constraints. O roteiro [Figma For Beginners](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4 ) fornece uma visão geral dos recursos disponíveis.
 
