@@ -6,7 +6,7 @@ Consulte a [Seção 3.4](https://engsoftmoderna.info/cap3.html#casos-de-uso) do 
 
 Converse com o seu grupo do PI para listar os **principais casos de uso** do sistema. 
 
-Considerando que já identificamos os atores dos sistema, podemos utilizar um conjunto de perguntas como guia para a elaboração dos casos de uso [link](https://www.amazon.com.br/Engenharia-Software-Uma-Abordagem-Profissional/dp/8580555337): 
+Considerando que já identificamos os atores dos sistema, podemos utilizar um conjunto de perguntas como guia para a elaboração dos casos de uso [[link](https://www.amazon.com.br/Engenharia-Software-Uma-Abordagem-Profissional/dp/8580555337)]: 
 
 * Quem é(são) o(s) ator(es) primário(s) e o(s) ator(es) secundário(s)?
 * Quais são as metas do ator?
