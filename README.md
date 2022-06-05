@@ -19,7 +19,9 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 ## 2º Bimestre
 
-* [LAB](labs/lab-requisitos-casos-uso.md): Casos de Uso (Individual)
+* [LAB](labs/lab-requisitos-casos-uso-parte-1.md): Casos de Uso, Parte I (Individual)
+
+* [LAB](labs/lab-requisitos-casos-uso-parte-2.md): Casos de Uso, Parte II (Grupo PI)
 
 
 

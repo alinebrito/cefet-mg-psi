@@ -1,4 +1,4 @@
-# LAB: Casos de Uso
+# LAB: Casos de Uso - Parte I
 
 Consulte a [Seção 3.4](https://engsoftmoderna.info/cap3.html#casos-de-uso) do livro de Engenharia de Software Moderna sobre Casos de Uso e o material disponível no SIGAA da disciplina teórica.
 
@@ -26,7 +26,6 @@ Lembre-se que apesar de escritos pelos desenvolvedores do sistema, casos de uso 
 # PASSO 2 - Detalhando os Casos de Uso do PI
 
 Neste passo, **cada membro da equipe** deve detalhar um caso de uso listado, incluindo precondições, o fluxo normal e as extensões, se existirem.
-
 
 # PASSO 3 - Entrega
 
