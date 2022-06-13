@@ -23,6 +23,8 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-requisitos-casos-uso-parte-2.md): Casos de Uso, Parte II (Grupo PI)
 
+* [LAB](labs/lab-requisitos-diagrama-casos-uso.md): Diagramas de Casos de Uso (Grupo PI)
+
 
 
 
