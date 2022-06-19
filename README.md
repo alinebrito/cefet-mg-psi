@@ -25,6 +25,7 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-requisitos-diagrama-casos-uso.md): Diagramas de Casos de Uso (Grupo PI)
 
+* [LAB](labs/lab-diagrama-atividades.md): Diagrama de Atividades (Individual)
 
 
 
