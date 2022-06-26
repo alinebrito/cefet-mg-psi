@@ -27,6 +27,9 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-diagrama-atividades.md): Diagrama de Atividades (Individual)
 
+* [LAB](labs/lab-diagrama-classes.md): Diagrama de Classes & Quadro Kanban (Grupo PI)
+
+
 
 
 
