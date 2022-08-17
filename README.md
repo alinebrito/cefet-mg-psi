@@ -29,6 +29,10 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-diagrama-classes.md): Diagrama de Classes & Quadro Kanban (Grupo PI)
 
+## 3º Bimestre
+
+* [LAB](labs/lab-diagrama-sequencia.md): Diagrama de Sequência (Grupo PI)
+
 
 
 
