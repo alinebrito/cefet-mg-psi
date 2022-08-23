@@ -33,6 +33,8 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-diagrama-sequencia.md): Diagrama de Sequência (Grupo PI)
 
+* [LAB](labs/lab-desenvolvimento-pi.md): Desenvolvimento do PI
+
 
 
 
