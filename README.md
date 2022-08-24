@@ -63,7 +63,7 @@ Plataforma que permite às empresas de dois países divulgar os seus perfis, ofe
 ## Grupo 6: Sistema Integrado de Eventos e Grupos Estudantis (SIEGE)
 
 <p style="">
-Mural do CEFET-MG para divulgação de eventos e atividades extracurriculares, visando incentivar a participação dos alunos nos projetos extraoficiais sediados nos campus de Belo Horizonte (Nova Gameleira e Nova Suíça).  (<a href="https://github.com/cefetmg-2022-psi-g6">GitHub</a> & <a href="https://github.com/cefetmg-2022-psi-g6/wiki">wiki</a>).
+Mural do CEFET-MG para divulgação de eventos e atividades extracurriculares, visando incentivar a participação dos alunos nos projetos extraoficiais sediados nos campus de Belo Horizonte (Nova Gameleira e Nova Suíça).  (<a href="https://github.com/cefetmg-2022-psi-g6">GitHub</a> & <a href="https://github.com/cefetmg-2022-psi-g6/wiki/wiki">wiki</a>).
 </p> 
 
 [<img src="https://avatars.githubusercontent.com/u/50997100?v=4" width="70" style="border-radius: 50%">](https://github.com/srcgab)
