@@ -2,6 +2,10 @@
 
 Repositório para atividades práticas da disciplina Projeto de Sistemas do curto Técnico em Informática do Cefet-MG.
 
+
+**Projetos disponíveis em:** [alinebrito.github.io/cefet-mg-psi/projetos-2022](https://alinebrito.github.io/cefet-mg-psi/projetos-2022)
+
+
 ## 1º Bimestre
 
 * [LAB](labs/lab-issues.md): Issues & GitHub (Individual)
