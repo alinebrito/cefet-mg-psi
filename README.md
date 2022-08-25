@@ -5,12 +5,11 @@
 Sistema para tradução de textos e equações químicas para braile (<a href="https://github.com/cefetmg-2022-psi-g1">GitHub</a> & <a href="https://github.com/cefetmg-2022-psi-g1/wiki/wiki">wiki</a>).
 </p> 
 
-[<img src="" width="70" style="border-radius: 50%" style="border-radius: 50%">]()
 [<img src="https://avatars.githubusercontent.com/u/52456827?v=4" width="70" style="border-radius: 50%">](https://github.com/ArthurG12)
 [<img src="https://avatars.githubusercontent.com/u/63165906?v=4" width="70" style="border-radius: 50%">](https://github.com/AlvarengaGustavo)
 [<img src="https://avatars.githubusercontent.com/u/72227382?v=4" width="70" style="border-radius: 50%">](https://github.com/Quaquaresma)
 [<img src="https://avatars.githubusercontent.com/u/63885146?v=4" width="70" style="border-radius: 50%">](https://github.com/StaryLu)
-[<img src="img_pendente.jpg" width="70" style="border-radius: 50%">](https://github.com/pedroalves-pendente-psi2022)
+[<img src="https://avatars.githubusercontent.com/u/56508430?v=4" width="70" style="border-radius: 50%">](https://github.com/OlsonAkin)
 [<img src="https://avatars.githubusercontent.com/u/70491757?v=4" width="70" style="border-radius: 50%">](https://github.com/tainaqd)
 
 ## Grupo 2: Quebra Galho
