@@ -39,8 +39,6 @@ Em seguida, crie a página `Diagrama de Implementação/Implantação da Soluç�
 
 Complete a seção correspondente no documento de especificação do PI, adicionando as imagens dos diagramas de sequência de projeto na seção Projeto Detalhado.
 
-Após finalizar o roteiro, um membro da equipe deve **responder a issue** aberta neste projeto, adicionando um link para a página do diagrama de sequências do PI.
-
 ## Referências
 
 Princípios de Análise e Projeto de Sistemas com UML. Eduardo Bezerra. 3 ed. Cap 11.2 - Arquitetura Física.
