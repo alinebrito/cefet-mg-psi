@@ -39,6 +39,9 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-desenvolvimento-pi.md): Desenvolvimento do PI
 
+* [LAB](labs/lab-arquitetura-fisica.md): Arquitetura Física & Diagrama de Implantação
+
+
 
 
 
