@@ -21,7 +21,7 @@ protocolos de comunicação (TCP/IP, HTTP, etc)
 
 Uma conexão é representada por uma linha ligando os dois nós. A conexão pode ser estereotipada para indicar o tipo de comunicação, conforme mostrado na imagem a seguir. Neste exemplo, existem computadores pessoais se comunicando com o servidor através do  protocolo HTTP. O servidor se comunica com o sistema de gerência de banco de dados via OBDC.
 
-<img src="imagens/exemplo-diagrama-implantacao.png" width="830"/>
+<img src="imagens/exemplo-diagrama-implantacao.png" width="600"/>
 
 Adicione as conexões correspondentes aos nós do seu projeto integrado.
 
@@ -33,7 +33,7 @@ Após elaborar os diagramas, crie uma nova seção na página wiki para adicion�
 * [[Diagrama de Implementação/Implantação da Solução Tecnológica]]
 ```
 
-Em seguida, crie a página `Implementação/Implantação da Solução Tecnológica`, adicionando o diagrama criado nos passos anteriores.
+Em seguida, crie a página `Diagrama de Implementação/Implantação da Solução Tecnológica`, adicionando o diagrama criado nos passos anteriores.
 
 ## PASSO 4: Atualizando o Documento de Especificação do PI
 
