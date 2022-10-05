@@ -33,13 +33,23 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 * [LAB](labs/lab-diagrama-classes.md): Diagrama de Classes & Quadro Kanban (Grupo PI)
 
+* [LAB]: Apresentação parcial do PI
+
 ## 3º Bimestre
 
-* [LAB](labs/lab-diagrama-sequencia.md): Diagrama de Sequência (Grupo PI)
+* [LAB]: Revisão da documentação e página wiki do PI
+
+* [LAB](labs/lab-diagrama-sequencia.md): Diagrama de Sequência
 
 * [LAB](labs/lab-desenvolvimento-pi.md): Desenvolvimento do PI
 
 * [LAB](labs/lab-arquitetura-fisica.md): Arquitetura Física & Diagrama de Implantação
+
+* [LAB]: Configuração do ambiente de desenvolvimento do PI em máquinas virtuais
+
+* [LAB]: Apresentação parcial do PI
+
+* [LAB](labs/lab-desenvolvimento-pi.md): Desenvolvimento do PI
 
 
 
