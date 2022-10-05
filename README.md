@@ -37,7 +37,7 @@ Repositório para atividades práticas da disciplina Projeto de Sistemas do curt
 
 ## 3º Bimestre
 
-* [LAB]: Revisão da documentação e página wiki do PI
+* LAB: Revisão da documentação e página wiki do PI
 
 * [LAB](labs/lab-diagrama-sequencia.md): Diagrama de Sequência
 
